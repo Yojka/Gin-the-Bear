@@ -1,6 +1,6 @@
 # Gin the Bear 🐻
 
-![alt screenshot](https://github.com/Yojka/Gin-the-Bear/blob/master/Gin the Bear.gif)
+![alt screenshot](https://raw.githubusercontent.com/Yojka/Gin-the-Bear/master/Gin%20the%20Bear.gif)
 
 Version: Pre-alpha (Build 18)
 Release Date: May, 2017
