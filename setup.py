@@ -33,9 +33,6 @@ class BuildExe:
         #Version of program
         self.project_version = "0.1"
 
-        #License of the program
-        # self.license = "MyApps License"
-
         #Auhor of program
         self.author_name = "Yojka"
         # self.author_email = "example@example.com"
