@@ -3,11 +3,17 @@
 ![alt screenshot](https://raw.githubusercontent.com/Yojka/Gin-the-Bear/master/Gin%20the%20Bear.gif)
 
 Version: Pre-alpha (Build 18)
+
 Release Date: May, 2017
-Made by Yojka. http://steamcommunity.com/id/yojka
+
+Made by Yojka.
+
 Powered by Pygame, beer and muffins.
+
 Approved by Gin the Cat.
+
 Fonts by Ethan Dunham and Alfredo Marco Pradil
+
 Some graphics by Kenney Vleugels.
 
 Description:
