@@ -19,16 +19,6 @@ def isSystemDLL(pathname):
     return origIsSystemDLL(pathname) # return the orginal function
 py2exe.build_exe.isSystemDLL = isSystemDLL # override the default function with this one
 
-# class pygame2exe(py2exe.build_exe.py2exe): #This hack make sure that pygame default font is copied: no need to modify code for specifying default font
-#     def copy_extensions(self, extensions):
-#         #Get pygame default font
-#         pygamedir = os.path.split(pygame.base.__file__)[0]
-#         pygame_default_font = os.path.join(pygamedir, pygame.font.get_default_font())
-
-#         #Add font to list of extension to be copied
-#         extensions.append(Module("pygame.font", pygame_default_font))
-#         py2exe.build_exe.py2exe.copy_extensions(self, extensions)
-
 class BuildExe:
     def __init__(self):
         #Name of starting .py
